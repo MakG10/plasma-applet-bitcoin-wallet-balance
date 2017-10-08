@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=Bitcoin Wallet Balance
+Name[en_GB]=Bitcoin Wallet Balance
+Name[pl]=Bitcoin - Stan portfela
+Comment=Shows total balance of BTC on user defined addresses.
+Comment[en_GB]=Shows total balance of BTC on user defined addresses.
+Comment[pl]=Pokazuje całkowitą ilość BTC przechowywanych na wskazanych adresach.
+
+Icon=applications-internet
+Type=Service
+ServiceTypes=Plasma/Applet
+
+X-KDE-PluginInfo-Author=Maciej Gierej
+X-KDE-PluginInfo-Email=makg@makg.eu
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://maciej.gierej.pl
+X-KDE-PluginInfo-Category=Utilities
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-Name=org.kde.plasma.bitcoinwalletbalance
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-Requires-FileDialog=Unused
+X-Plasma-Requires-LaunchApp=Unused
+X-Plasma-DefaultSize=200,300
