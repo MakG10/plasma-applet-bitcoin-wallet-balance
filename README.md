@@ -36,13 +36,13 @@ Use additional `-g` flag to install plasmoid globally, for all users.
 - THB (฿) - Thai Baht
 
 ## Screenshots
-![Bitcoin Wallet Balance](https://raw.githubusercontent.com/MakG10/plasma-applet-bitcoin-wallet-balance/master/bitcoin-wallet-balanceplasmoid.png)
+![Bitcoin Wallet Balance](https://raw.githubusercontent.com/MakG10/plasma-applet-bitcoin-wallet-balance/master/bitcoin-wallet-balance-plasmoid.png)
 
-![Bitcoin Wallet Balance (Panel)](https://raw.githubusercontent.com/MakG10/plasma-applet-bitcoin-wallet-balance/master/bitcoin-wallet-balancepanel.png)
+![Bitcoin Wallet Balance (Panel)](https://raw.githubusercontent.com/MakG10/plasma-applet-bitcoin-wallet-balance/master/bitcoin-wallet-balance-panel.png)
 
-![Bitcoin Wallet Balance (Configuration)](https://raw.githubusercontent.com/MakG10/plasma-applet-bitcoin-wallet-balance/master/bitcoin-wallet-balanceconfig.png)
+![Bitcoin Wallet Balance (Configuration)](https://raw.githubusercontent.com/MakG10/plasma-applet-bitcoin-wallet-balance/master/bitcoin-wallet-balance-config.png)
 
-![Bitcoin Wallet Balance (Configuration)](https://raw.githubusercontent.com/MakG10/plasma-applet-bitcoin-wallet-balance/master/bitcoin-wallet-balanceconfig-appearance.png)
+![Bitcoin Wallet Balance (Configuration)](https://raw.githubusercontent.com/MakG10/plasma-applet-bitcoin-wallet-balance/master/bitcoin-wallet-balance-appearance.png)
 
 ## License
 
