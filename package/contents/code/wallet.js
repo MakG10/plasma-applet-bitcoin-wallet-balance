@@ -1,6 +1,6 @@
-var currencyApiUrl = 'http://api.fixer.io';
+var currencyApiUrl = 'https://api.exchangeratesapi.io';
 var blockchainApiUrl = 'https://blockchain.info/pl';
-var bitcoinRateApiUrl = 'https://api.coinmarketcap.com/v1/ticker/bitcoin/';
+var bitcoinRateApiUrl = 'https://blockchain.info/ticker';
 
 var currencySymbols = {
 	'BTC': 'BTC',
@@ -67,7 +67,7 @@ function convert(value, from, to, callback) {
 	
 	request(bitcoinRateApiUrl, function(req) {
 		var data = JSON.parse(req.responseText);
-		var rate = data[0].price_usd;
+		var rate = data.USD.last;
 		
 		var usd = value / 100000000 * rate;
 		

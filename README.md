@@ -50,5 +50,8 @@ Released under the GPLv3 license.
 
 ## Changelog
 
+### 1.0.1
+Updated API urls.
+
 ### 1.0
 Initial release
